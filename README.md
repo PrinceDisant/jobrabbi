@@ -1,4 +1,4 @@
-# jobrabbi
+# jobstackr
 
 Client Side Application built in HTML, CSS, JS, PHP
 
